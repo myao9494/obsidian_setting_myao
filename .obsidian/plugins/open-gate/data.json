@@ -1,0 +1,16 @@
+{
+  "uuid": "8odkjhcjwv67e84b7a7ljp",
+  "gates": {
+    "aHR0cDovLzEwMC4xMjMuMjM5LjE1OjEzMzcv": {
+      "id": "aHR0cDovLzEwMC4xMjMuMjM5LjE1OjEzMzcv",
+      "title": "gantt",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://icon.horse/icon/100.123.239.15\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "http://100.123.239.15:1337/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}

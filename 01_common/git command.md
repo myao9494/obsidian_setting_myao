@@ -1,7 +1,12 @@
 # 設定 (Configuration)
-- `git config --global user.name "Your Name"`: ユーザー名の設定
-- `git config --global user.email "you@example.com"`: メールアドレスの設定
+- `git config --global user.name "root"`: ユーザー名の設定
+- `git config --global user.email "mx@ymail.com"`: メールアドレスの設定
 - `git config --list`: 設定の確認
+
+# コンフリクトがある場合のpull
+
+- `git pull origin main --no-rebase` : とりあえず普通にマージして取り込みたい
+		→ このあとに、コンフリクトを解決して取り込めばOK
 
 
 # ブランチとマージ (Branch & Merge)

@@ -65,3 +65,20 @@ div[data-type="thino_view"] .item-header svg {
     opacity: 1 !important;
     visibility: visible !important;
 }
+
+/* Thinoのタグに光彩効果を追加 */
+div[data-type="thino_view"] a.tag,
+div[data-type="thino_view"] .cm-hashtag {
+    text-shadow: 0 0 10px var(--interactive-accent) !important;
+}
+
+/* Thinoのヘッダーに光彩効果を追加 */
+div[data-type="thino_view"] .cm-header,
+div[data-type="thino_view"] h1,
+div[data-type="thino_view"] h2,
+div[data-type="thino_view"] h3,
+div[data-type="thino_view"] h4,
+div[data-type="thino_view"] h5,
+div[data-type="thino_view"] h6 {
+    text-shadow: 0 0 20px var(--interactive-accent) !important;
+}

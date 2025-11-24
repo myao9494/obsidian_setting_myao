@@ -11,6 +11,18 @@ action Shell Commands: Execute: Copy Obsidian Settings
 class my-copy-button
 ```
 
+## これで行こう
+
+https://github.com/amatzk/obsidian-dagnetz-system
+
+階層構造を捨てる。これに時間がかかっているのは否めない
+
+## 個人のリポジトリ
+
+http://100.123.239.15:8080/root/obsidian
+
+
+
 ## 除外ファイルの設定方法
  - obsidianの設定でできる
 	- .obsidian/app.json

@@ -6,7 +6,7 @@
       {
         "id": "7663d1d5dcc2dcba",
         "type": "tabs",
-        "dimension": 44.7171097477846,
+        "dimension": 39.667630057803464,
         "children": [
           {
             "id": "861c7db1527bb668",
@@ -23,10 +23,10 @@
       {
         "id": "5e2087e8efbefa13",
         "type": "tabs",
-        "dimension": 55.28289025221541,
+        "dimension": 60.33236994219653,
         "children": [
           {
-            "id": "a6709e704554b1f4",
+            "id": "fa59842447328784",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,6 +196,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "dbf5af11ec16b56b",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cDovLzEwMC4xMjMuMjM5LjE1OjEzMzcv",
+              "state": {},
+              "icon": "aHR0cDovLzEwMC4xMjMuMjM5LjE1OjEzMzcv",
+              "title": "gantt"
+            }
           }
         ]
       }
@@ -220,38 +230,40 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "excel:Create Excel File": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "open-gate:gantt": false
     }
   },
-  "active": "a6709e704554b1f4",
+  "active": "fa59842447328784",
   "lastOpenFiles": [
+    "99_日次記録/2025-11-25.md",
+    "00_inbox/無題のカンバン.md",
+    "整理指示.md",
+    "01_common/obsidian.md",
+    "10_知識ベース/11_AI投資分析/明日の注目銘柄選定プロンプト.md",
+    "00_inbox/明日の注目銘柄.md",
+    "99_日次記録/2025-11-24.md",
+    "10_知識ベース/30_IT/mac.md",
+    "10_知識ベース/11_AI投資分析/伊勢化学工業_4107_分析レポート.md",
+    "10_知識ベース/10_投資アプリ/株価分析アプリ.md",
     "10_知識ベース/11_AI投資分析/統合型株式分析プロンプト.md",
+    "00_inbox/IPO.md",
+    "99_日次記録/2025-09-21.md",
+    "10_知識ベース/20_個人開発/file_viewer.md",
+    "01_common/git command.md",
+    "10_知識ベース/30_IT/gitbucket.md",
     "10_知識ベース/20_個人開発/excalidraw_myao.md",
     "10_知識ベース/31_AI/AI.md",
-    "10_知識ベース/30_IT/gitbucket.md",
     "10_知識ベース/20_個人開発/gantt_myao.md",
-    "10_知識ベース/11_AI投資分析/明日の注目銘柄選定プロンプト.md",
     "10_知識ベース/30_IT/mac mini.md",
     "10_知識ベース/11_AI投資分析",
-    "10_知識ベース/30_IT/mac.md",
-    "01_common/obsidian.md",
     "00_inbox/HOME.md",
-    "整理指示.md",
     "01_common/VSCODE.md",
     "10_知識ベース/01_投資/株人勉強会.md",
     "10_知識ベース/10_投資アプリ/株式銘柄分析テンプレート.md",
-    "10_知識ベース/10_投資アプリ/株価分析アプリ.md",
     "10_知識ベース/11_AI投資分析/2220_Kameda_Analysis.md",
     "10_知識ベース/11_AI投資分析/378A_Hit_Analysis.md",
-    "10_知識ベース/80_その他/老後の準備.md",
-    "10_知識ベース/01_投資/投資で毎日やること.md",
-    "10_知識ベース/01_投資/株人ライブ.md",
-    "10_知識ベース/10_投資アプリ/ファンダメンタルネタ収集アプリ.md",
-    "10_知識ベース/10_投資アプリ/株価リアルタイム取得アプリ.md",
-    "99_日次記録/2025-11-24.md",
-    "10_知識ベース/10_投資アプリ/過去株価取得アプリ.md",
-    "plugin_setup_guide.md",
-    "00_inbox/memo.excalidraw.md",
     "01_common",
     "80_script/copy_settings.py",
     "80_script",
