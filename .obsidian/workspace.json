@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/HOME.md",
+                "file": "01_common/obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "obsidian"
             }
           }
         ]
@@ -51,7 +51,7 @@
       {
         "id": "5552758f96e46d46",
         "type": "tabs",
-        "dimension": 71.67487684729063,
+        "dimension": 83.57963875205255,
         "children": [
           {
             "id": "9f86b5de88794bc9",
@@ -60,7 +60,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -98,7 +98,7 @@
       {
         "id": "1d1dbdd74d6bad90",
         "type": "tabs",
-        "dimension": 28.325123152709363,
+        "dimension": 16.420361247947454,
         "children": [
           {
             "id": "12500e8b27fa204f",
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50312423706055
+    "width": 290.50312423706055
   },
   "right": {
     "id": "bb87bc89dc5e325e",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_inbox/HOME.md",
+                "file": "01_common/obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "HOMEへのバックリンク"
+              "title": "obsidianへのバックリンク"
             }
           },
           {
@@ -225,36 +225,37 @@
   },
   "active": "a6709e704554b1f4",
   "lastOpenFiles": [
-    "99_日次記録/2025-11-24.md",
-    "整理指示.md",
-    "00_inbox/過去株価取得アプリ.md",
-    "plugin_setup_guide.md",
-    "00_inbox/HOME.md",
-    "00_inbox/memo.excalidraw.md",
-    "00_inbox/todo_やることリスト.md",
-    "10_知識ベース/30_IT/obsidian.md",
+    "10_知識ベース/11_AI投資分析/統合型株式分析プロンプト.md",
+    "10_知識ベース/20_個人開発/excalidraw_myao.md",
+    "10_知識ベース/31_AI/AI.md",
     "10_知識ベース/30_IT/gitbucket.md",
-    "01_common/git command.md",
-    "00_inbox/会社へ.md",
+    "10_知識ベース/20_個人開発/gantt_myao.md",
+    "10_知識ベース/11_AI投資分析/明日の注目銘柄選定プロンプト.md",
+    "10_知識ベース/30_IT/mac mini.md",
+    "10_知識ベース/11_AI投資分析",
+    "10_知識ベース/30_IT/mac.md",
+    "01_common/obsidian.md",
+    "00_inbox/HOME.md",
+    "整理指示.md",
+    "01_common/VSCODE.md",
+    "10_知識ベース/01_投資/株人勉強会.md",
+    "10_知識ベース/10_投資アプリ/株式銘柄分析テンプレート.md",
+    "10_知識ベース/10_投資アプリ/株価分析アプリ.md",
+    "10_知識ベース/11_AI投資分析/2220_Kameda_Analysis.md",
+    "10_知識ベース/11_AI投資分析/378A_Hit_Analysis.md",
+    "10_知識ベース/80_その他/老後の準備.md",
+    "10_知識ベース/01_投資/投資で毎日やること.md",
+    "10_知識ベース/01_投資/株人ライブ.md",
+    "10_知識ベース/10_投資アプリ/ファンダメンタルネタ収集アプリ.md",
+    "10_知識ベース/10_投資アプリ/株価リアルタイム取得アプリ.md",
+    "99_日次記録/2025-11-24.md",
+    "10_知識ベース/10_投資アプリ/過去株価取得アプリ.md",
+    "plugin_setup_guide.md",
+    "00_inbox/memo.excalidraw.md",
     "01_common",
     "80_script/copy_settings.py",
     "80_script",
-    "10_知識ベース/20_個人開発/file_viewer.md",
     "copy_settings.py",
-    "10_知識ベース/31_AI/AI.md",
-    "10_知識ベース/10_投資アプリ/株価分析アプリ.md",
-    "10_知識ベース/90_財テク/ふるさと納税.md",
-    "10_知識ベース/80_その他/雇用.md",
-    "10_知識ベース/01_投資/株人勉強会.md",
-    "10_知識ベース/80_その他/マラソン.md",
-    "10_知識ベース/10_投資アプリ/株式銘柄分析テンプレート.md",
-    "99_日次記録/猿投温泉.excalidraw.md",
-    "10_知識ベース/30_IT/mac.md",
-    "99_日次記録/2025-10-12.md",
-    "99_日次記録/2025-09-21.md",
-    "10_知識ベース/30_IT/mac mini.md",
-    "10_知識ベース/01_投資/楽天 raku.md",
-    "01_知識ベース/30_IT/ObsidianでNAS上のファイルへリンクする.md",
     "90_資料/添付ファイル/Pasted image 20251123115645.png",
     "90_資料/添付ファイル/Pasted Image 20250915152218_215.png",
     "10_知識ベース/20_個人開発",
@@ -269,7 +270,6 @@
     "90_資料/添付ファイル/Pasted Image 20251007054141_876.png",
     "90_資料/添付ファイル/Pasted Image 20251007053804_058.png",
     "90_資料/添付ファイル/Pasted Image 20251005084659_749.png",
-    "10_知識ベース/01_投資",
-    "10_知識ベース/30_IT"
+    "10_知識ベース/01_投資"
   ]
 }
