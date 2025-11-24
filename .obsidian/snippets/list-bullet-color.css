@@ -1,0 +1,45 @@
+/* Change list bullet color to yellow */
+
+body {
+    --list-marker-color: #ffee00 !important;
+}
+
+/* Live Preview / Source Mode */
+.cm-formatting-list,
+.cm-formatting-list-ul {
+    color: #ffee00 !important;
+    -webkit-text-fill-color: #ffee00 !important;
+}
+
+/* Reading View */
+.markdown-preview-view ul>li>.list-bullet:after,
+.markdown-preview-view ul>li::marker {
+    color: #ffee00 !important;
+    border-color: #ffee00 !important;
+    background-color: #ffee00 !important;
+}
+
+/* Specific targeting for nested lists if needed */
+.markdown-source-view.mod-cm6 .cm-formatting-list .list-bullet {
+    color: #ffee00 !important;
+}
+
+/* Checkboxes */
+.markdown-preview-view .task-list-item-checkbox,
+.markdown-source-view.mod-cm6 .task-list-item-checkbox {
+    border-color: #ffee00 !important;
+    --checkbox-color: #ffee00 !important;
+    --checkbox-border-color: #ffee00 !important;
+    --checkbox-marker-color: #ffee00 !important;
+}
+
+input[type="checkbox"] {
+    border-color: #ffee00 !important;
+    accent-color: #ffee00 !important;
+}
+
+/* Hover state for checkboxes */
+.markdown-preview-view .task-list-item-checkbox:hover,
+.markdown-source-view.mod-cm6 .task-list-item-checkbox:hover {
+    background-color: rgba(255, 238, 0, 0.1) !important;
+}

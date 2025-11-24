@@ -1,0 +1,25 @@
+/* Reading Mode (Preview) - Backticks are not present here, so this works perfectly */
+.markdown-preview-view code {
+    user-select: all;
+    -webkit-user-select: all;
+    cursor: pointer;
+}
+
+/* Editing Mode (Live Preview) */
+.cm-s-obsidian .cm-inline-code {
+    user-select: all;
+    -webkit-user-select: all;
+    cursor: pointer;
+}
+
+/* Attempt to exclude backticks from selection in Editing Mode */
+.cm-s-obsidian .cm-inline-code .cm-formatting {
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+/* Hover effect */
+.markdown-preview-view code:hover,
+.cm-s-obsidian .cm-inline-code:hover {
+    background-color: var(--background-modifier-hover);
+}

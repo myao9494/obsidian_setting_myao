@@ -1,0 +1,29 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showLineNumber": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "useTab": true,
+  "tabSize": 2,
+  "smartIndentList": true,
+  "showIndentGuide": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "90_資料/添付ファイル",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_inbox",
+  "readableLineLength": true,
+  "maxLineLength": 80,
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "**/backup/**"
+  ]
+}

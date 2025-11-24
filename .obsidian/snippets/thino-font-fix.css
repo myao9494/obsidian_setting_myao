@@ -1,0 +1,67 @@
+/*
+ * Thino Font Fix
+ * Matches Thino's font size and family to the Markdown editor settings.
+ */
+
+/* Force the content text to match the editor font size */
+div[data-type="thino_view"] .memo-content-text {
+    font-family: var(--font-text) !important;
+    font-size: 15px !important;
+    line-height: var(--line-height-normal) !important;
+}
+
+/* Also target the paragraph elements inside if they exist */
+div[data-type="thino_view"] .memo-content-text p {
+    font-size: inherit !important;
+    line-height: inherit !important;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+/* Fix the input editor font size */
+div[data-type="thino_view"] .memo-editor .cm-content,
+div[data-type="thino_view"] .memo-editor .cm-scroller,
+div[data-type="thino_view"] .memo-editor .cm-line {
+    font-family: var(--font-text) !important;
+    font-size: 15px !important;
+}
+
+/* Override Thino specific variables just in case */
+div[data-type="thino_view"] {
+    --thino-ui-medium: 15px !important;
+    --thino-ui-small: 15px !important;
+    --font-ui-medium: 15px !important;
+    --font-ui-large: 15px !important;
+}
+
+/* Fix the 'NOTE' button text color */
+div[data-type="thino_view"] .confirm-btn {
+    color: black !important;
+}
+
+/* Fix visibility of top right icons and text in Thino */
+div[data-type="thino_view"] .memo-top-wrapper .memo-menu,
+div[data-type="thino_view"] .memo-top-wrapper .memo-filter,
+div[data-type="thino_view"] .memo-top-wrapper .memo-search,
+div[data-type="thino_view"] .memo-top-wrapper svg,
+div[data-type="thino_view"] .memo-top-wrapper span {
+    color: var(--text-normal) !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Ensure the date/time is also visible if it's in the header */
+div[data-type="thino_view"] .memo-top-wrapper .time-text {
+    color: var(--text-normal) !important;
+}
+
+/* Fix visibility of icons on memo cards (specifically the menu trigger) */
+div[data-type="thino_view"] .memo-list svg,
+div[data-type="thino_view"] .memo-item svg,
+div[data-type="thino_view"] .memo-card svg,
+div[data-type="thino_view"] .item-header svg {
+    color: var(--text-normal) !important;
+    fill: var(--text-normal) !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}

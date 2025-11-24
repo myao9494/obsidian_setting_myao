@@ -1,0 +1,24 @@
+/* Add pale yellow underline to headings */
+
+/* Reading View */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    border-bottom: 1px solid rgba(255, 238, 0, 0.5);
+    padding-bottom: 0.2em;
+    margin-bottom: 0.5em;
+}
+
+/* Live Preview / Source Mode - target the line container instead */
+.cm-line:has(.cm-header-1),
+.cm-line:has(.cm-header-2),
+.cm-line:has(.cm-header-3),
+.cm-line:has(.cm-header-4),
+.cm-line:has(.cm-header-5),
+.cm-line:has(.cm-header-6) {
+    border-bottom: 1px solid rgba(255, 238, 0, 0.5);
+    padding-bottom: 0.2em;
+}

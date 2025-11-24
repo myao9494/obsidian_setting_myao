@@ -1,0 +1,22 @@
+/* Add glow effect to headings in reading mode to match edit mode */
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    text-shadow: 0 0 20px var(--interactive-accent);
+}
+
+/* Match line-height with edit mode (tighter spacing) */
+.markdown-preview-view {
+    line-height: 1.0 !important;
+}
+
+.markdown-preview-view p,
+.markdown-preview-view li {
+    line-height: 1.2 !important;
+    margin-top: 0.2em !important;
+    margin-bottom: 0.2em !important;
+}

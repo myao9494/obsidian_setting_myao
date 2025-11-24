@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Autotape",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "explorer-text-color",
+    "heading-glow",
+    "heading-underline",
+    "inline-code-select",
+    "list-bullet-color",
+    "thino-font-fix"
+  ],
+  "accentColor": "#73ff00",
+  "baseFontSizeAction": false,
+  "showViewHeader": true
+}

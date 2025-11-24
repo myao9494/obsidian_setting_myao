@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "99_日次記録",
+  "template": "Templates/Daily Template",
+  "autorun": true
+}
