@@ -1,17 +1,16 @@
-├── .claude/
-├── 00_inbox/
-├── 01_common/
-├── 10_知識ベース/
-│   ├── 01_投資/
-│   ├── 10_投資アプリ/
-│   ├── 11_AI投資分析/
-│   ├── 20_個人開発/
-│   ├── 30_IT/
-│   ├── 31_AI/
-│   ├── 80_その他/
-│   └── 90_財テク/
-├── 80_script/
-├── 90_資料/
-│   └── 添付ファイル/
-├── 99_日次記録/
-└── Templates/
+├── .smart-env/
+│   ├── multi/
+│   ├── smart_actions/
+│   ├── smart_chat_threads/
+│   ├── smart_completions/
+│   ├── smart_contexts/
+│   └── smart_threads/
+├── .vscode/
+├── 00_templates/
+├── 01_data/
+│   └── 2025/
+│       └── 11/
+│           ├── 25/
+│           └── 26/
+├── 02_view/
+└── 80_script/

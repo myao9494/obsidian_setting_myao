@@ -1,5 +1,12 @@
 {
+  "theme": "system",
+  "interfaceFontFamily": "M PLUS 1",
+  "textFontFamily": "M PLUS 1",
+  "monospaceFontFamily": "M PLUS 1 Code",
+  "showViewHeader": false,
   "cssTheme": "Autotape",
+  "accentColor": "#66ff69",
+  "baseFontSizeAction": true,
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "explorer-text-color",
@@ -7,9 +14,7 @@
     "heading-underline",
     "inline-code-select",
     "list-bullet-color",
-    "thino-font-fix"
-  ],
-  "accentColor": "#70ff7a",
-  "baseFontSizeAction": false,
-  "showViewHeader": true
+    "thino-font-fix",
+    "editor-width"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "00_templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "10_株式銘柄分析",
-      "template": "Templates/株式銘柄分析テンプレート.md"
+      "folder": "/",
+      "template": "00_templates/01_note.md"
     }
   ],
   "enable_file_templates": false,
@@ -27,12 +27,11 @@
     }
   ],
   "syntax_highlighting": true,
-  "syntax_highlighting_mobile": false,
+  "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
-    ""
+    "00_templates/11_embed_code.md",
+    "00_templates/02_literature.md"
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "intellisense_render": 1
 }

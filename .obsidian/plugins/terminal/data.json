@@ -7,7 +7,7 @@
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "interceptLogging": true,
-  "language": "ja",
+  "language": "",
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
