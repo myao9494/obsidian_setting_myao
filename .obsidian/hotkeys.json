@@ -79,5 +79,17 @@
       ],
       "key": "P"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [],
+      "key": "Delete"
+    }
+  ],
+  "file-explorer:delete-file": [
+    {
+      "modifiers": [],
+      "key": "Delete"
+    }
   ]
 }

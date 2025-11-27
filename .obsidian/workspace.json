@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79d211ad30889b74",
+        "id": "9fc8250e9bf79f33",
         "type": "tabs",
-        "dimension": 54.1882876204596,
         "children": [
           {
-            "id": "21786f77bdab58db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_data/2025/11/26/obsidianの構築思想.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "obsidianの構築思想"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1d66b0b760fdc653",
-        "type": "tabs",
-        "dimension": 45.811712379540396,
-        "children": [
-          {
-            "id": "741142de30aedc99",
+            "id": "acee27521c882df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01_data/2025/11/25/obsidianの設定を保存する.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -209,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,14 +205,34 @@
       "smart-connections:Smart Connections: Open random connection": true,
       "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "741142de30aedc99",
+  "active": "acee27521c882df8",
   "lastOpenFiles": [
-    "01_data/2025/11/26/obsidianの横幅狭い問題の解決.md",
-    "01_data/2025/11/26/obsidianの構築思想.md",
     "01_data/2025/11/25/obsidianの設定を保存する.md",
+    "01_data/2025/11/28/VSCODE.md",
+    "あb",
+    "01_data/2025/11/28/無題のファイル.md",
+    "01_data/2025/11/28/Drawing 2025-11-28 06.44.32.excalidraw.md",
+    "Excalidraw",
+    "00_templates/Excalidraw_Template.md",
+    "01_data/2025/11/26/test.md",
+    "01_data/2025/11/28/test.md",
+    "01_data/2025/11/28/Drawing 2025-11-28 06.27.33.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-28 06.19.10.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-28 06.23.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-28 06.23.35.excalidraw.md",
+    "01_data/2025/11/28/Drawing 2025-11-28 06.24.28.excalidraw.md",
+    "01_data/2025/11/28/Drawing 2025-11-28 06.24.42.excalidraw.md",
+    "01_data/2025/11/28/Drawing 2025-11-28 06.25.20.excalidraw.md",
+    "01_data/2025/11/28/ManualTest.excalidraw.md",
+    "01_data/2025/11/26/obsidianの構築思想.md",
+    "Excalidraw/Drawing 2025-11-28 06.17.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-28 06.17.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-28 06.15.51.excalidraw.md",
+    "01_data/2025/11/26/obsidianの横幅狭い問題の解決.md",
     "02_view/20_tasks.md",
     "02_view/10_dashboard.md",
     "01_data/2025/11/25/楽天証券 ログイン情報.md",

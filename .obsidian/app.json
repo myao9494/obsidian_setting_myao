@@ -4,5 +4,11 @@
   "newFileFolderPath": "01_data",
   "attachmentFolderPath": "./",
   "showUnsupportedFiles": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "userIgnoreFilters": [
+    "*.py",
+    "*.ipynb",
+    "**/backup/**",
+    "80_script/**"
+  ]
 }

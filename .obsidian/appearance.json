@@ -7,7 +7,7 @@
   "cssTheme": "Autotape",
   "accentColor": "#66ff69",
   "baseFontSizeAction": true,
-  "baseFontSize": 15,
+  "baseFontSize": 13,
   "enabledCssSnippets": [
     "explorer-text-color",
     "heading-glow",
@@ -15,6 +15,7 @@
     "inline-code-select",
     "list-bullet-color",
     "thino-font-fix",
-    "editor-width"
+    "editor-width",
+    "excalidraw-embed-width"
   ]
 }
