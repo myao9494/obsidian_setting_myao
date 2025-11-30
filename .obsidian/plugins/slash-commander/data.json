@@ -11,6 +11,17 @@
   "queryPattern": {},
   "bindings": [
     {
+      "name": "Checkbox",
+      "id": "editor:toggle-checklist-status",
+      "icon": "check-square",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:toggle-checklist-status",
+      "children": []
+    },
+    {
       "name": "Code",
       "id": "editor:insert-codeblock",
       "icon": "terminal",

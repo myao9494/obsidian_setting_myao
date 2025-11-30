@@ -7,7 +7,7 @@
   "cssTheme": "Autotape",
   "accentColor": "#66ff69",
   "baseFontSizeAction": true,
-  "baseFontSize": 13,
+  "baseFontSize": 14,
   "enabledCssSnippets": [
     "explorer-text-color",
     "heading-glow",

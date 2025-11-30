@@ -65,31 +65,3 @@ iframe[src*="Excalidraw"] {
     height: auto !important;
     min-height: 400px;
 }
-
-/* Reading view と Preview view 両方に対応 */
-.markdown-preview-view .internal-embed,
-.markdown-reading-view .internal-embed,
-.markdown-source-view .internal-embed {
-    width: 100% !important;
-}
-
-/* Excalidraw特有のクラス */
-.excalidraw-embed,
-.excalidraw-wrapper {
-    width: 100% !important;
-    max-width: 100% !important;
-}
-
-/* より具体的なセレクタ - SVG画像 */
-.markdown-embed-content svg,
-.internal-embed svg {
-    width: 100% !important;
-    height: auto !important;
-}
-
-/* 画像を含むすべての埋め込み */
-.markdown-embed-content img,
-.internal-embed img {
-    width: 100% !important;
-    height: auto !important;
-}

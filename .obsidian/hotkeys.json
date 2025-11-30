@@ -80,16 +80,26 @@
       "key": "P"
     }
   ],
-  "app:delete-file": [
+  "file-explorer:delete-file": [
     {
       "modifiers": [],
       "key": "Delete"
     }
   ],
-  "file-explorer:delete-file": [
+  "app:go-back": [
     {
-      "modifiers": [],
-      "key": "Delete"
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }

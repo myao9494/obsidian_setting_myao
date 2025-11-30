@@ -15,10 +15,11 @@
   "various-complements",
   "smart-connections",
   "heading-level-indent",
-  "obsidian-image-toolkit",
   "terminal",
   "omnisearch",
   "buttons",
   "obsidian-shellcommands",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "mousewheel-image-zoom",
+  "notebook-navigator"
 ]
