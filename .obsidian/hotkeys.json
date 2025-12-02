@@ -71,15 +71,6 @@
       "key": "T"
     }
   ],
-  "omnisearch:show-modal": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "file-explorer:delete-file": [
     {
       "modifiers": [],
@@ -100,6 +91,23 @@
         "Mod"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }

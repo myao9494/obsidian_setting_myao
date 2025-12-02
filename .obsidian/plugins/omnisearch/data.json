@@ -5,7 +5,10 @@
   "downrankedFoldersFilters": [],
   "ignoreDiacritics": true,
   "ignoreArabicDiacritics": false,
-  "indexedFileTypes": [],
+  "indexedFileTypes": [
+    "md",
+    "canvas"
+  ],
   "displayTitle": "",
   "PDFIndexing": false,
   "officeIndexing": false,
