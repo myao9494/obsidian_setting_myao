@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "01_data/2025/11/25/obsidianの設定を保存する.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "obsidianの設定を保存する"
@@ -75,7 +75,8 @@
               "title": "ノートブックナビゲーター"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "eda02e874fc85628",
@@ -223,6 +224,11 @@
   "active": "7fec9a75f9bacc76",
   "lastOpenFiles": [
     "01_data/2025/11/25/楽天証券 ログイン情報.md",
+    "01_data/2025/11/25/obsidianの設定を保存する.md",
+    "01_data/2025/12/04/obsidianの設定を保存する 2025-12-04 06.51.36.excalidraw.md",
+    "01_data/2025/12/04",
+    "01_data/2025/12/03/無題のファイル.md",
+    "01_data/2025/12/03",
     "01_data/2025/12/02/ルール.md",
     "01_data/000_old/01_common/git command.md",
     "docs/omnisearch_troubleshooting.md",
@@ -242,7 +248,6 @@
     "01_data/2025/12/01/無題のファイル 1.md",
     "01_data/2025/12/01",
     "01_data/2025/12",
-    "01_data/2025/11/25/obsidianの設定を保存する.md",
     "01_data/2025/11/30/要素試験 ブラウザの自動操作開発手法 (ログインがあるもの).md",
     "01_data/2025/11/30/IPOセカンダリ.md",
     "01_data/2025/11/30/ブラウザ自動化ライブコーディング開発セッション.md",
@@ -258,11 +263,6 @@
     "01_data/000_old/10_知識ベース/30_IT/mac.md",
     "01_data/2025/11/30/ipo_dashboard_mockup.png",
     "01_data/2025/11/30/IPO_System_Flows.excalidraw",
-    "01_data/2025/11/30/IPO_System_Flows.excalidraw.md",
-    "01_data/000_old/00_inbox/IPO.md",
-    "generate_excalidraw.py",
-    "ipo_system/backend/main.py",
-    "01_data/2025/11/28/転換社債（CB）で株価下落の理由を解説.md",
     "01_data/2025/11/28/Pasted image 20251128125627.png"
   ]
 }

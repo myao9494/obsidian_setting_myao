@@ -16,6 +16,7 @@
     "list-bullet-color",
     "thino-font-fix",
     "editor-width",
-    "excalidraw-embed-width"
+    "excalidraw-embed-width",
+    "custom-tag-styles"
   ]
 }

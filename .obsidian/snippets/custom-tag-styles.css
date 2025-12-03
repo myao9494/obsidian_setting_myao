@@ -1,0 +1,80 @@
+/* 
+ * Custom Tag Styles
+ * 
+ * USER SETTINGS: Adjust colors here
+ */
+:root {
+    /* 背景色 (Background Color) */
+    --tag-bg-color: #22de01;
+
+    /* 文字色 (Text Color) */
+    --tag-text-color: #000000;
+}
+
+/* --- Global Tag Selectors --- */
+/* 
+ * .tag, a.tag: Standard reading view and many plugins
+ * .cm-hashtag: Editing view (Live Preview)
+ * .search-result-file-tag: Core Search plugin results
+ * .omnisearch-result .tag: Omnisearch results
+ * .nn-file-tag: Notebook Navigator tags
+ */
+.tag,
+a.tag,
+.cm-s-obsidian span.cm-hashtag,
+.search-result-file-tag,
+.omnisearch-result .tag,
+.suggestion-content .tag,
+div.tag,
+span.tag,
+.nn-file-tag {
+    background-color: var(--tag-bg-color) !important;
+    color: var(--tag-text-color) !important;
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    /* Subtle border */
+    border-radius: 4px !important;
+    padding: 1px 8px !important;
+    font-size: 0.9em !important;
+    text-decoration: none !important;
+    font-family: var(--font-monospace);
+    box-shadow: none !important;
+
+    /* Reset Notebook Navigator specific overrides */
+    --nn-theme-file-tag-bg: var(--tag-bg-color) !important;
+    --nn-theme-file-tag-color: var(--tag-text-color) !important;
+}
+
+/* Hover effects */
+.tag:hover,
+a.tag:hover,
+.cm-s-obsidian span.cm-hashtag:hover,
+.search-result-file-tag:hover,
+.omnisearch-result .tag:hover,
+.suggestion-content .tag:hover,
+div.tag:hover,
+span.tag:hover,
+.nn-file-tag:hover {
+    filter: brightness(90%);
+    /* Slightly darken on hover */
+    color: var(--tag-text-color) !important;
+}
+
+/* --- Specific Fixes for Editing View --- */
+.cm-s-obsidian span.cm-hashtag-begin {
+    border-top-left-radius: 4px !important;
+    border-bottom-left-radius: 4px !important;
+    padding-left: 6px !important;
+    border-right: none !important;
+}
+
+.cm-s-obsidian span.cm-hashtag-end {
+    border-top-right-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+    padding-right: 6px !important;
+    border-left: none !important;
+}
+
+.cm-s-obsidian span.cm-hashtag:not(.cm-hashtag-begin):not(.cm-hashtag-end) {
+    border-left: none !important;
+    border-right: none !important;
+}
